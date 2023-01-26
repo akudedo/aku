@@ -1,0 +1,17 @@
+---===== Bot Off =====---
+Istirahat = true --JADIIN FALSE JIKA GAMAU ISTIRAHATIN BOTNYA
+JamTidur = {11} -- JAM BOTNYA OFF (Format 24 Jam)
+DelayTidur = 550 -- BOTNYA OFF SELAMA n DelayTidur (Format Menit)
+
+---==== PACK SETTINGS ====---
+WorldPack = {"XXX"} -- NAMA WORLD STORAGE PACK (PERTAMA)
+autobuypack = true
+hargapack = 20000 -- HARGA PACK
+namapack = "world_lock_10_pack" -- NAMA PACK
+MinItemPack = 9 --APABILA JUMLAH ITEM YANG ADA DIDALAM iditempack LEBIH BESAR DARIPADA MinItemPack, MAKA BOTNYA MULAI DROP PACKNYA KE STORAGE!
+maxbuy = 2 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA GEMSNYA MASIH CUKUP!
+iditempack = {242}
+ID_AcuanDrop_Pack = 20 --BOT AKAN DROP PACK DI ACUAN LGRID (5666)
+
+---===== Info World Seed =====---
+WorldSeed = {"XXX", "XXX"} --WORLD SEED, BOTNYA AKAN RANDOM MASUK DIANTARA WORLD INI.
